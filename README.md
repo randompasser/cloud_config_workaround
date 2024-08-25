@@ -21,6 +21,7 @@ Currently works for:
 * KINGDOM HEARTS HD 2.8 Final Chapter Prologue
 * KINGDOM HEARTS III + Re Mind (DLC)
 * Disco Elysium - The Final Cut
+* Hi-Fi RUSH
 
 ## Game not on the list?
 Please create a new issue with the AppId and game name.
